@@ -1,8 +1,8 @@
 Metric,Value
-Raw Data Length,3898963.0
-Cleaned Data Length,2189706.0
-Percent Dropped,43.0
-Median Trip Minutes,11.0
-Median Speed MPH,8.0
-Share Cash,0.13
-Share Card,0.85
+Raw Data Length,3174394.0
+Cleaned Data Length,2422334.0
+Percent Dropped,23.0
+Median Trip Minutes,10.0
+Median Speed MPH,10.0
+Share Cash,0.216
+Share Card,0.781
